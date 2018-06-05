@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.android\build-cache\411b71f08784737e03b869302b9ff732c8b9a064\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76f493398d098956b70ab258aa1d1531cf28194e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.android\build-cache\1daa3242f4df71ef84c8fca517f4bf6afd1fc71a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92137af0a8a8623fa451a25beaffc4a9f22a8bb9">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66e641da5f5ad96f2dc5b98663d363f1487d82dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.6.1_fca588d9cd21934bd9f956def41406874d0dc327\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.android\build-cache\c37d4562355093270e6bad643803125718cd6fd4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13d1cf9c83fbc70730a8efc8d52cd41afdecd584\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.android\build-cache\1b8dbfa2aa28b35c09fc6ad2c537fd8940c0e00c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c78f5b269e192ab87c4e4c9c22f62266af1a246e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.android\build-cache\5ac8cf4d8c721356e2db011771097b703d03b147\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b31b58c77501958de6ff90e05ef52aee0ff1632\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.android\build-cache\c5fad37519d1f3a82e9f75f6d83c42545f6baf6a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3bf4cf097b69d66769290ef403a263dea57ec57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.android\build-cache\161006af0210a4d868924fad055aee9a8ccc6701\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cee98beed542ecad574ef4cbdc5e2d7244ea9661">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87dd181215225b2ac0efbb324f5291b45c5ef21f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.android\build-cache\5a618bbe63edeb6744867f1928ea1c3f4efb46e0\output\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_55fd6a0ecf2ea324ba295395c1397704bf920af2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.android\build-cache\06bd22004be4683324dd4648c43bd4d40a7198a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b8362eb548b509d96f9ac28b33fef40e6bbf5a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2e100fe8d97231909555cdd12a7e3ecbefd32549\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.12.0\3742beff8024d0a0073d284b7c5e4cbf73d99b25\okio-1.12.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.12.0_448b32915a4ca470efac1e4a1d6ddb82b4c2fb94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa86298f0d2cc29344e21feb2549df507164f911">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c03f0198608c2b54f2a62759675dcfbd6b1c8e07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_3a4871eaeb06fa06238140a79018bf854d070c54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.android\build-cache\8f726623bacac4f92b2e6a004a2ad13b1f85025b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d8ea2dc166f6df9e050a560e2e649c7a6e90cd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_47ddb6ba3134f919d1a951f8a51517556ec7af65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.android\build-cache\3595ad673d9c4ffd750e1c961cf83d263b93f5f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_acaa36160cadf62e8fc3a560b4d259cd7a9f6215\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.android\build-cache\5a618bbe63edeb6744867f1928ea1c3f4efb46e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd4b5b027c8070d3e154b09e5a6b53eb80ad143f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.android\build-cache\e161426db8de14ab55ec575aa014d2de90331f9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9a4d49b97190d4490310827938d428c6fc996f4">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65a7bc35f41399c9bb43672c0d5d49a1240209ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.android\build-cache\fe4731fe23b4a69277a6b00a4ed508d9c4668347\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="acc33023966f868dfe3ecb77a3ce5676dc8de92d">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87c07b8927f862dc02ed29645a8d402e5d4a4cbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.7.0\6edbebdd8868708db718d15c09c4b28037fd487e\okhttp-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.7.0_53ab4ff1740dba8bebffe72c6aeb1b7ce7f80c49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Supratim\.android\build-cache\3ee33cebad7afee7e9ce99a6a7838ffa59b3692d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Supratim\AndroidStudioProjects\querania\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71202040b989e627987ecba98346054569c30739\classes.dex" />
+    </item>
+
+</items>

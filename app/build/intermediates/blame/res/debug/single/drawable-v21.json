@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\8f726623bacac4f92b2e6a004a2ad13b1f85025b\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\8f726623bacac4f92b2e6a004a2ad13b1f85025b\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\fe4731fe23b4a69277a6b00a4ed508d9c4668347\\output\\res\\drawable-v21\\md_btn_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\fe4731fe23b4a69277a6b00a4ed508d9c4668347\\output\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\8f726623bacac4f92b2e6a004a2ad13b1f85025b\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\fe4731fe23b4a69277a6b00a4ed508d9c4668347\\output\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    }
+]

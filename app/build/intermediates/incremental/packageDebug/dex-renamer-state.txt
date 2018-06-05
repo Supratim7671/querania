@@ -1,0 +1,7 @@
+#Sat Jul 01 01:08:15 IST 2017
+base.0=C\:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2e100fe8d97231909555cdd12a7e3ecbefd32549
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c03f0198608c2b54f2a62759675dcfbd6b1c8e07\\classes.dex
+base.1=C\:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c03f0198608c2b54f2a62759675dcfbd6b1c8e07
+file.0=C\:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2e100fe8d97231909555cdd12a7e3ecbefd32549\\classes.dex

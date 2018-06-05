@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_cubic.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\fe4731fe23b4a69277a6b00a4ed508d9c4668347\\output\\res\\anim\\decelerate_cubic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\8f726623bacac4f92b2e6a004a2ad13b1f85025b\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\8f726623bacac4f92b2e6a004a2ad13b1f85025b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\8f726623bacac4f92b2e6a004a2ad13b1f85025b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\8f726623bacac4f92b2e6a004a2ad13b1f85025b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\8f726623bacac4f92b2e6a004a2ad13b1f85025b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\3ee33cebad7afee7e9ce99a6a7838ffa59b3692d\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\8f726623bacac4f92b2e6a004a2ad13b1f85025b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\3ee33cebad7afee7e9ce99a6a7838ffa59b3692d\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\8f726623bacac4f92b2e6a004a2ad13b1f85025b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\3ee33cebad7afee7e9ce99a6a7838ffa59b3692d\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\3ee33cebad7afee7e9ce99a6a7838ffa59b3692d\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\fe4731fe23b4a69277a6b00a4ed508d9c4668347\\output\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\fe4731fe23b4a69277a6b00a4ed508d9c4668347\\output\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\8f726623bacac4f92b2e6a004a2ad13b1f85025b\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\8f726623bacac4f92b2e6a004a2ad13b1f85025b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\3ee33cebad7afee7e9ce99a6a7838ffa59b3692d\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\3ee33cebad7afee7e9ce99a6a7838ffa59b3692d\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Supratim\\.android\\build-cache\\8f726623bacac4f92b2e6a004a2ad13b1f85025b\\output\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

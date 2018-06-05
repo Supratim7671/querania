@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_answer_page.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\menu\\menu_answer_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\menu\\menu_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_page.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\menu\\activity_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\menu\\global.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigationdrawer.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\menu\\navigationdrawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ff.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\menu\\ff.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_navigationdrawer_drawer.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\menu\\activity_navigationdrawer_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_register.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\menu\\menu_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_login.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\menu\\menu_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_home_page.xml",
+        "source": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\src\\main\\res\\menu\\menu_home_page.xml"
+    }
+]

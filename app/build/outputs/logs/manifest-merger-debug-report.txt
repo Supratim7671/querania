@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:9:22-62
+application
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:11:5-43:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\Supratim\.android\build-cache\3ee33cebad7afee7e9ce99a6a7838ffa59b3692d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Supratim\.android\build-cache\c5fad37519d1f3a82e9f75f6d83c42545f6baf6a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Supratim\.android\build-cache\c37d4562355093270e6bad643803125718cd6fd4\output\AndroidManifest.xml:9:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.0.1] C:\Users\Supratim\.android\build-cache\161006af0210a4d868924fad055aee9a8ccc6701\output\AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.1] C:\Users\Supratim\.android\build-cache\fe4731fe23b4a69277a6b00a4ed508d9c4668347\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Supratim\.android\build-cache\8f726623bacac4f92b2e6a004a2ad13b1f85025b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Supratim\.android\build-cache\06bd22004be4683324dd4648c43bd4d40a7198a7\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Supratim\.android\build-cache\411b71f08784737e03b869302b9ff732c8b9a064\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Supratim\.android\build-cache\5a618bbe63edeb6744867f1928ea1c3f4efb46e0\output\AndroidManifest.xml:25:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Supratim\.android\build-cache\5ac8cf4d8c721356e2db011771097b703d03b147\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:15:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:14:9-47
+	android:largeHeap
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:16:9-33
+	android:theme
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.querania.querania.login
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:19:13-34
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.querania.querania.register
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:27:9-29:63
+	android:label
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:29:13-60
+	android:name
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:28:13-37
+activity#com.querania.querania.home_page
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:30:9-32:64
+	android:label
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:32:13-61
+	android:name
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:31:13-38
+activity#com.querania.querania.answer_page
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:33:9-35:66
+	android:label
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:35:13-63
+	android:name
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:34:13-40
+activity#com.querania.querania.navigationdrawer
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:36:9-39:59
+	android:label
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:38:13-68
+	android:theme
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:37:13-45
+activity#com.querania.querania.reply_page
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:40:9-48
+	android:name
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:40:19-45
+activity#com.querania.querania.notification
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:41:9-50
+	android:name
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:41:19-47
+activity#com.querania.querania.myprofile
+ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:42:9-47
+	android:name
+		ADDED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml:42:19-44
+uses-sdk
+INJECTED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Supratim\.android\build-cache\6869e46113d773837dc0808fc3743576ca0c01ca\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:23.4.0] C:\Users\Supratim\.android\build-cache\3ee33cebad7afee7e9ce99a6a7838ffa59b3692d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Supratim\.android\build-cache\c5fad37519d1f3a82e9f75f6d83c42545f6baf6a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Supratim\.android\build-cache\c37d4562355093270e6bad643803125718cd6fd4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.0.1] C:\Users\Supratim\.android\build-cache\161006af0210a4d868924fad055aee9a8ccc6701\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.1] C:\Users\Supratim\.android\build-cache\fe4731fe23b4a69277a6b00a4ed508d9c4668347\output\AndroidManifest.xml:8:5-11:75
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\Supratim\.android\build-cache\3595ad673d9c4ffd750e1c961cf83d263b93f5f6\output\AndroidManifest.xml:20:5-43
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] C:\Users\Supratim\.android\build-cache\1b8dbfa2aa28b35c09fc6ad2c537fd8940c0e00c\output\AndroidManifest.xml:12:5-14:41
+MERGED from [com.flipboard:bottomsheet-commons:1.5.3] C:\Users\Supratim\.android\build-cache\1daa3242f4df71ef84c8fca517f4bf6afd1fc71a\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.flipboard:bottomsheet-core:1.5.3] C:\Users\Supratim\.android\build-cache\e161426db8de14ab55ec575aa014d2de90331f9f\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Supratim\.android\build-cache\8f726623bacac4f92b2e6a004a2ad13b1f85025b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Supratim\.android\build-cache\06bd22004be4683324dd4648c43bd4d40a7198a7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Supratim\.android\build-cache\411b71f08784737e03b869302b9ff732c8b9a064\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Supratim\.android\build-cache\5a618bbe63edeb6744867f1928ea1c3f4efb46e0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Supratim\.android\build-cache\5ac8cf4d8c721356e2db011771097b703d03b147\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.0.1] C:\Users\Supratim\.android\build-cache\fe4731fe23b4a69277a6b00a4ed508d9c4668347\output\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Supratim\AndroidStudioProjects\querania\app\src\main\AndroidManifest.xml

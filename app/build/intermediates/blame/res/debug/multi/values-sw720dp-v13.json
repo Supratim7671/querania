@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Users\\Supratim\\AndroidStudioProjects\\querania\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\Supratim\\.android\\build-cache\\e161426db8de14ab55ec575aa014d2de90331f9f\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 41,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "C:\\Users\\Supratim\\.android\\build-cache\\fe4731fe23b4a69277a6b00a4ed508d9c4668347\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 63,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "C:\\Users\\Supratim\\.android\\build-cache\\e161426db8de14ab55ec575aa014d2de90331f9f\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 63,
+                        "endOffset": 165
+                    }
+                }
+            }
+        ]
+    }
+]
